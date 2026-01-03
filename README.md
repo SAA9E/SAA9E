@@ -31,8 +31,8 @@ A passionate developer focused on building efficient solutions and documenting t
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SAA9E]&show_icons=true&theme=transparent" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SAA9E]&layout=compact&theme=transparent" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAA9E&show_icons=true&theme=transparent" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAA9E&layout=compact&theme=transparent" alt="Top Languages" width="48%" />
 </div>
 
 ---
