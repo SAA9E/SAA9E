@@ -1,7 +1,7 @@
 ## (Writing... ⌛)
 # Hi there, I'm SA9E 👋
 
-### 👨‍💻 Aspiring Software Engineer | Student Developer
+### 👨‍💻 Aspiring Student Developer
 A passionate developer focused on building efficient solutions and documenting the journey.
 
 ---
@@ -9,8 +9,8 @@ A passionate developer focused on building efficient solutions and documenting t
 ### 🚀 Quick Glance
 - 🔭 **Currently working on:** Data migration & System optimization
 - 🌱 **Learning:** Web Development, Cloud Services, and Git Workflows
-- 📝 **Writing:** Documenting my technical "struggles" on [My Tistory Blog](✨)
-- 💬 **Ask me about:** Python **
+- 📝 **Writing:** Documenting my technical "struggles" on [My Tistory Blog](https://sa9e.tistory.com/)
+- 💬 **Ask me about:** Python
 
 ---
 
@@ -28,15 +28,15 @@ A passionate developer focused on building efficient solutions and documenting t
 
 ---
 
-<!--### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAA9E&show_icons=true&theme=transparent" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAA9E&layout=compact&theme=transparent" alt="Top Languages" width="48%" />
 </div>
--->
+
 ---
 
 ### 📫 Connect with Me
-[![Blog](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=tistory&logoColor=white)](✨)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](66sage99@gmail.com)
+- 📝 **Blog:** [https://sa9e.tistory.com/](https://sa9e.tistory.com/)
+- 📧 **Email:** 66sage99@gmail.com
